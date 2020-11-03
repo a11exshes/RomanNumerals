@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd91e30b-24e8-4311-87c4-92693c4e1110" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmEmomuuA5OubvTUR4cZYURmiJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd91e30b-24e8-4311-87c4-92693c4e1110" name="Default Changelist" comment="" />
+      <created>1604401028026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604401028026</updated>
+      <workItem from="1604401030132" duration="244000" />
+      <workItem from="1604402333045" duration="244000" />
+      <workItem from="1604402606266" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1604402902348">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="260" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1604402902348" />
+    <state x="-136" y="44" key="SettingsEditor" timestamp="1604402641924">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="-136" y="44" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1604402641924" />
+    <state x="34" y="22" key="new project wizard" timestamp="1604402932363">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1604402932363" />
+  </component>
+</project>
